@@ -1,0 +1,11 @@
+- name: Spanish
+  percentage: 95
+  color: info
+
+- name: Portuguese
+  percentage: 90
+  color: success
+
+- name: Russian
+  percentage: 70
+  color: info
