@@ -17,8 +17,8 @@
 
 - name: Javascript
   percentage: 90
-  color: dark
+  color: danger
 
 - name: React
   percentage: 80
-  color: danger
+  color: dark
