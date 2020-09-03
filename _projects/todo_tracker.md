@@ -1,6 +1,6 @@
 ---
 name: Todo Tracker
-weight: 2
+weight: 5
 tools: [Ruby, Sinatra, HTML, CSS]
 image: "/assets/images/lauren-sauder-6GPBVYLapYQ-unsplash.jpg"
 description: An app for tracking todos.
