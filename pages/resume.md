@@ -5,4 +5,4 @@ permalink: /resume/
 weight: 4
 ---
 
-[My Resume](../assets/docs/resume_torrel_moseley.pdf "Resume")
+[My Resume](../assets/docs/torrel_moseley_resume.pdf "Resume")
