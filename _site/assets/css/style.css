@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins");
+img[title="Maestro"] { display: block; width: 300px; margin: 0 auto; }
+
 .cls-1 { fill: #ffc541; }
 
 .cls-2 { fill: #4e4066; }
