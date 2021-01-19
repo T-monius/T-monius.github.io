@@ -5,7 +5,7 @@ permalink: /
 
 {% include landing.html %}
 
-I'm a software engineer hanging out in Denver, CO until I can safely relocate to NYC, NY. I'm the proud co-creator of [Maestro](https://maestro-framework.github.io/ "Maestro") which is a serverless framework for rapidly iterating serverless workflows.
+I'm a software engineer and proud co-creator of [Maestro](https://maestro-framework.github.io/ "Maestro") which is a serverless framework for rapidly iterating serverless workflows.
 
 [![Maestro - framework for serverless orchestration](/assets/images/Maestro_logo-full-onlight.png "Maestro")](https://maestro-framework.github.io/ "Maestro")
 
