@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Torrel Moseley
   image             : "/assets/images/street_shot_me.jpeg"
-  email             : trrl.mo@hotmail.com
+#  email             : trrl.mo@hotmail.com
   github            : T-monius
 # instagram         : your_username
   linkedin          : torrelmoseley
