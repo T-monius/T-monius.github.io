@@ -9,4 +9,4 @@ I'm a software engineer and proud co-creator of [Maestro](https://maestro-framew
 
 [![Maestro - framework for serverless orchestration](/assets/images/Maestro_logo-full-onlight.png "Maestro")](https://maestro-framework.github.io/ "Maestro")
 
-I'm skilled with JavaScript, Node.js, React/Redux, Ruby, Rails, SQL, and AWS. You can check out some of my other experience and see my skills on my [resume](../assets/docs/torrel_moseley_resume.pdf "Resume").
+I'm skilled with JavaScript, Node.js, React/Redux, Ruby, Rails, SQL, and AWS. You can check out some of my other experience and see my skills on my [resume](../assets/docs/torrel_moseley_00.pdf "Resume").
